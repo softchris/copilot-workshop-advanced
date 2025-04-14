@@ -1,0 +1,8 @@
+{
+    "label": "Custom instructions",
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "description": "Get an Agent to do all the heavy lifting for you."
+  }
+}
