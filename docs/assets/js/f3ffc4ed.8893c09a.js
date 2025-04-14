@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcopilot_workshop=self.webpackChunkcopilot_workshop||[]).push([[4732],{5851:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/copilot-workshop-advanced/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

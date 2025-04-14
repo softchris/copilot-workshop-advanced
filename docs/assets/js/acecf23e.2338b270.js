@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcopilot_workshop=self.webpackChunkcopilot_workshop||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/copilot-workshop-advanced/blog","blogTitle":"Blog","authorsListPath":"/copilot-workshop-advanced/blog/authors"}')}}]);
